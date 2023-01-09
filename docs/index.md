@@ -25,9 +25,11 @@ We have been trying to establish a voluntary union and we should continue. Every
 
 This proposal is to complement *election-as-referendum* with an approach in which the Scottish Government acts as the adult in room and engages with other governments and political actors in the UK and Commonwealth with a view to putting the Union on a statutory, constitutional and voluntary basis.
 
-To that end I have [drafted a Bill](https://github.com/gordonguthrie/voluntaryunion) that defines a constitutional process.
+<span class="newthought">A start</span> must be made, and a draft [Act of Voluntary Union](https://github.com/gordonguthrie/voluntaryunion) is a start. It defines a constitutional process.
 
 It is not the last word, it is the first word. In the world of TikTok and remixes it is [available freely](./why_github.html) for anyone, SNP, Labour, in Scotland or furth of her, who wants to take and remix, rewrite, adapt. The precondition for enconstitutionalising is agreeing a process to do that. This Bill, based on long standing UK precedents is one way, it would be better with other input, criticisms and experience being applied to the draft.
+
+It is also my intention to furnish people with the arguments and facts to think about how we should approach voters who are at best ambivalent or anxious about independence.
 
 ## Further Reading
 
@@ -35,6 +37,6 @@ This draft bill is based on the Northern Ireland Constitution Act (1973) which o
 
 The fact that an Act of Union, even one of Voluntary Union, has been drafted by an SNP militant probably seems even more eccentric - but it is [rooted in commonsense](how_does_an_SNP_member_end_up_writing_an_Act_of_Union). The SNP as a party of government, and an aspiring leader of a political process leading to independence has to talk to and for all the voters of Scotland.
 
-The best framework to consider Gordon Brown's constitutional proposals is by [comparison with Donald Dewar's approach to devolution](dewar_vs_brown.html).
+The best framework to consider Gordon Brown's constitutional proposals is by [comparison with Donald Dewar's approach to devolution](dewar_vs_brown.html). His proposals are at best [delaying tactics](./popular_sovereignty.html) until Labour can squeeze into power in Holyrood.
 
 This is part of a wider project to encourage Scottish civil and political society to write draft [Members](https://www.parliament.scot/about/how-parliament-works/parliament-rules-and-guidance/standing-orders/chapter-9-public-bill-procedures#topOfNav) and [Private](https://www.parliament.scot/about/how-parliament-works/parliament-rules-and-guidance/standing-orders/chapter-9a-private-bill-procedures#topOfNav) Bills with a view to getting them introduced in the Scottish Parliament. To that end I am seek collaborators to work on a Draft Bill of the Scottish Parliament to provide autonomy for the Gàidhealtachd based on the [Åland Islands Autonomy Statue](./resources/FI_SE_930101_Act_on_the_Autonomy_of_Aland.pdf). Are you [interested in helping?](./Scotland_is_a_voluntary_union.html)

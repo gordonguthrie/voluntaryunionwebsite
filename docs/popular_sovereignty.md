@@ -12,8 +12,6 @@ It is now mostly recognised that all roads to the future are constitutional ones
 
 The purpose of this project is to drive a discussion not about outcomes but about processes, not about what divides us politically, but what unites us as constitutional democrats.
 
-<span class="newthought">A start</span> must be made, and a draft [Act of Voluntary Union](https://github.com/gordonguthrie/voluntaryunion) is a start. It is a beginning only, the Act is published as a [github repo](./why_github.html) for you and your political organisations to fork, amend and write your own.
-
 The Labour Party under Gordon Brown has recently published their own [major constitutional proposal](https://labour.org.uk/wp-content/uploads/2022/12/Commission-on-the-UKs-Future.pdf).
 
 The analysis of the UK's institutional failings is clear, but it is wedded to the notion of parliamentary sovereignty. Gordon Brown's proposals purport to be an end, but merely represent a beginning and won't survive unscathed contact with an electorate that is wedded to popular sovereignty *you work for us*.
