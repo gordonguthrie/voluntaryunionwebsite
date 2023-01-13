@@ -16,8 +16,8 @@ This is the old punk strategy:
 
 ![three chords](./images/three-chords.webp)
 
-I've done it, lets us do it, then lets get them to do it.
+*I've done it, lets us do it, then lets get them to do it.*
 
-The goal is to take an existing legal instrument and build out our own version of it as it applies to Scotland and subject to the restrictions of the Scotland Act and publish that as a campaigning and discussion document.
+The goal is to take an [existing legal instrument](./resources/FI_SE_930101_Act_on_the_Autonomy_of_Aland.pdf) and build out our own version of it as it applies to Scotland and subject to the restrictions of the Scotland Act and publish that as a campaigning and discussion document.
 
 If you are interested - hit me up gordon@hypernumbers.com

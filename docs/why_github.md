@@ -4,8 +4,10 @@
 
 But computer systems in their raw state are just files of text. It can be used by anyone to collaborate on shared text.
 
-A number of legislatures like [Washington DC](https://github.com/DCCouncil/law-xml), [New York State Senate](https://github.com/nysenate/OpenLegislation
-) for instance, publish their law on GitHub - because they too are shared text.
+But it equally it allows anyone to fork this draft bill and collaborate on their own distinct version of it. The text is licensed under the [Create Commons Attribution (V4) License](https://creativecommons.org/licenses/by/4.0/).
+
+<span class="newthought">A number of legislatures</span> like [Washington DC](https://github.com/DCCouncil/law-xml) and the [New York State Senate](https://github.com/nysenate/OpenLegislation
+) already publish their law on GitHub.
 
 There are two things that make it particular useful.
 
