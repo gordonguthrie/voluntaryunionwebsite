@@ -25,7 +25,7 @@ We should continue trying to establish a voluntary union. Another *No Voluntary 
 
 Lets complement *election-as-referendum* with an approach where the Scottish Government is as the adult in room, engaging with other governments and political actors in the UK and Commonwealth with a view to putting the Union on a statutory, constitutional and voluntary basis. Success in this would be success for the SNP, as would failure.
 
-<span class="newthought">A start must be made</span>, and a draft [Act of Voluntary Union](https://github.com/gordonguthrie/voluntaryunion) is a start. It defines a constitutional process.
+<span class="newthought">A start must be made</span>, and a draft [Act of Voluntary Union](https://gordonguthrie.github.io/voluntaryunion/) is a start. It defines a constitutional process.
 
 It is not the last word, it is the first word. In the world of TikTok and remixes it is [available freely](./why_github.html) for anyone, SNP or not, to take and remix, rewrite, adapt. To get a constitution you need to agree a process. This Bill, based on long standing UK precedents is one way, it would be better with other input, criticisms and experience being applied to the draft.
 
