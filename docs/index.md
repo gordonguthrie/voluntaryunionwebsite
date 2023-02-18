@@ -8,7 +8,7 @@ In the other, acceptance of our independence by rUK is critical to EU accession.
 
 The SNP strategy has been Voluntary Union by request *may we have a Section 30 referendum?* and *is a Holyrood referendum legal?*
 
-The Party meets in March to thrash through the its strategy: currently *election-as-referendum*.
+The Party meets in March to thrash through the its strategy: currently *election-as-referendum*. (Obviously this was written pre-Nicola Sturgeon's resignation and the cancellation/postponment of the special conference - in my opinion *election-as-referendum* is now a dead duck, we will see.)
 
 In the run up to the autumn conference I wrote extensively ([1](https://bellacaledonia.org.uk/2022/10/03/92241/), [2](https://bellacaledonia.org.uk/2022/10/04/stronger-things/), [3](https://bellacaledonia.org.uk/2022/10/05/future-sovereignty/), [4](https://bellacaledonia.org.uk/2022/10/06/under-what-circumstances-would-the-snp-green-government-trigger-a-holyrood-special-election-in-defence-of-devolution/), [5](https://bellacaledonia.org.uk/2022/10/07/under-what-circumstances-if-at-all-would-the-snp-government-move-to-open-defiance-of-westminster/)), about questions that we need to clarify:
 
